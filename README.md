@@ -6,3 +6,5 @@ This bash script is designed to assess the security of web servers by testing fo
 </details>
 
 ---
+#### form of use
+> **./byp4xx.sh http://url/path/**
